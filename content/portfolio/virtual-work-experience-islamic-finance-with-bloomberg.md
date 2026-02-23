@@ -4,15 +4,16 @@ date: 2026-02-24T00:31:00.000+07:00
 draft: false
 summary: Architecting the future of Islamic finance through high-impact
   financial engineering.
+image: /images/3.png
 tags:
-  - IslamicFinance CapitalMarkets InvestmentBanking FinancialAnalysis
-    SukukStructuring GreenSukuk ESGInvesting Bloomberg
+  - "#IslamicFinance #CapitalMarkets #InvestmentBanking #FinancialAnalysis
+    #SukukStructuring #GreenSukuk #ESGInvesting #Bloomberg"
 ---
 I am excited to share my experience participating in a virtual work program focused on Islamic Finance, powered by Bloomberg in collaboration with the Misk Foundation. This journey allowed me to bridge the gap between theoretical Islamic economic principles and real-world financial engineering using industry-standard tools like the Bloomberg Terminal.
 
 #### First Task: Sharia Compliance & Equity Screening
 
-In this initial phase, I utilized Bloomberg’s analytical tools to critique corporate entities based on Sharia law. I applied strict screening filters, such as ensuring total interest-bearing debt and cash equivalents are each less than 33% of total assets.
+In this initial phase, I utilized Bloomberg's analytical tools to critique corporate entities based on Sharia law. I applied strict screening filters, such as ensuring total interest-bearing debt and cash equivalents are each less than 33% of total assets.
 
 > ![Figure 1](/images/first-task_page-0001.png)
 
