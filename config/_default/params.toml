@@ -3,8 +3,8 @@
 colorScheme = "blowfish"
 
 # Options: light, dark, auto
-defaultAppearance = "light"
-autoSwitchAppearance = true
+defaultAppearance = "dark"
+autoSwitchAppearance = false
 
 # ─── General ──────────────────────────────────────────────
 showAuthor = true
