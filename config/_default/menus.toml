@@ -1,14 +1,14 @@
 [[main]]
-  name = "Beranda"
+  name = "Home"
   pageRef = "/"
   weight = 1
 
 [[main]]
-  name = "Portofolio"
+  name = "Portfolio"
   pageRef = "portfolio"
   weight = 2
 
 [[main]]
-  name = "Tentang"
+  name = "About"
   pageRef = "about"
   weight = 3
