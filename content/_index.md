@@ -1,8 +1,8 @@
 ---
-title: "Halo, saya Namamu 👋"
+title: "Hello, I'm Demmy 👋"
 date: 2026-02-23
 draft: false
 ---
 
-Selamat datang di portofolio finance saya.
-Di sini saya menampilkan hasil valuasi dan analisis.
+Welcome to my finance portfolio.
+Here I showcase my valuation and analysis work.
