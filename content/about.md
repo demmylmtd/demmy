@@ -1,5 +1,5 @@
 ---
-title: "Tentang Saya"
+title: "About Me"
 date: 2026-02-23
 draft: false
 ---
