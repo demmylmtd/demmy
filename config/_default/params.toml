@@ -1,29 +1,38 @@
-# Color scheme options:
-# blowfish, avocado, ocean, fire, slate, apricot, congo
+# ─── Appearance ───────────────────────────────────────────
+# Options: blowfish, avocado, ocean, fire, slate, apricot, congo
 colorScheme = "blowfish"
 
-# Light / dark / auto
+# Options: light, dark, auto
 defaultAppearance = "light"
 autoSwitchAppearance = true
 
-# Show author on each page
+# ─── General ──────────────────────────────────────────────
 showAuthor = true
 
-# Homepage layout
+# ─── Homepage ─────────────────────────────────────────────
 [homepage]
-  layout = "profile"
-  showRecent = true
+  layout          = "profile"
+  showRecent      = true
   showRecentItems = 5
 
-# Author info
+# ─── Author ───────────────────────────────────────────────
 [author]
-  name = "Muhammad Demmy"
-  # image = "img/photo.jpg"
+  name     = "Muhammad Demmy"
+  # image  = "img/photo.jpg"
   headline = "Economics & Finance Student"
-  bio = "I am an Economics and Finance student at Al-Imam Muhammad Ibn Saud Islamic University with a strong foundation in market analysis. For the past two years, I have navigated the complexities of equity and forex markets as an independent trader, sharpening my ability to interpret global geopolitical shifts and financial news.
-My technical proficiency is backed by certifications from the Indonesia Stock Exchange (IDX) and the Ministry of Finance, alongside virtual experience programs with Bloomberg, BCG, Citi, and SIDF. I am committed to evolving within the finance industry, aiming to leverage my analytical rigor and market insights as a future Equity Analyst or Investment Banker.
-"
+  bio      = """
+I am an Economics and Finance student at Al-Imam Muhammad Ibn Saud Islamic University \
+with a strong foundation in market analysis. For the past two years, I have navigated \
+the complexities of equity and forex markets as an independent trader, sharpening my \
+ability to interpret global geopolitical shifts and financial news.
+
+My technical proficiency is backed by certifications from the Indonesia Stock Exchange \
+(IDX) and the Ministry of Finance, alongside virtual experience programs with Bloomberg, \
+BCG, Citi, and SIDF. I am committed to evolving within the finance industry, aiming to \
+leverage my analytical rigor and market insights as a future Equity Analyst or \
+Investment Banker.
+"""
   links = [
-    {linkedin = "https://linkedin.com/in/muhammad-demmy"},
-    {github = "https://github.com/demmylmtd"}
+    { linkedin = "https://linkedin.com/in/muhammad-demmy" },
+    { github   = "https://github.com/demmylmtd" },
   ]
