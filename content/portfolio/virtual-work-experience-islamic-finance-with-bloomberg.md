@@ -6,8 +6,14 @@ summary: Architecting the future of Islamic finance through high-impact
   financial engineering.
 image: /images/3.png
 tags:
-  - "#IslamicFinance #CapitalMarkets #InvestmentBanking #FinancialAnalysis
-    #SukukStructuring #GreenSukuk #ESGInvesting #Bloomberg"
+  - IslamicFinance
+  - CapitalMarkets
+  - InvestmentBanking
+  - FinancialAnalysis
+  - SukukStructuring
+  - GreenSukuk
+  - ESGInvesting
+  - Bloomberg
 ---
 I am excited to share my experience participating in a virtual work program focused on Islamic Finance, powered by Bloomberg in collaboration with the Misk Foundation. This journey allowed me to bridge the gap between theoretical Islamic economic principles and real-world financial engineering using industry-standard tools like the Bloomberg Terminal.
 
@@ -21,8 +27,8 @@ In this initial phase, I utilized Bloomberg's analytical tools to critique corpo
 
 Using Bloomberg Terminal tools, I performed an underwriter analysis to gauge market depth. I observed a "flight to safety" dynamic in Saudi German Health (SGH), where investors preferred the security of debt (Sukuk) over equity volatility.
 
->
->
+> 
+> 
 > ![](/images/second-task_page-0001.jpg)
 
 ![](/images/second-task_page-0002.jpg)
@@ -31,8 +37,8 @@ Using Bloomberg Terminal tools, I performed an underwriter analysis to gauge mar
 
 I shifted focus to the macro level by analyzing three representative high-performing Saudi Government Sukuk via the Saudi Exchange. I identified that the KSA Sukuk 2041 offers a high-yield leader at 5.15%, reflecting a "term premium" for long-term debt.
 
->
->
+> 
+> 
 > ![](/images/third-task_pages-to-jpg-0001.jpg)
 
 
