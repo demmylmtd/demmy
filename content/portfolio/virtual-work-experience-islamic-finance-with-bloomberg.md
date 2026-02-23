@@ -5,8 +5,8 @@ draft: false
 summary: Architecting the future of Islamic finance through high-impact
   financial engineering.
 tags:
-  - "#IslamicFinance #CapitalMarkets #InvestmentBanking #FinancialAnalysis
-    #SukukStructuring #GreenSukuk #ESGInvesting #Bloomberg"
+  - IslamicFinance CapitalMarkets InvestmentBanking FinancialAnalysis
+    SukukStructuring GreenSukuk ESGInvesting Bloomberg
 ---
 I am excited to share my experience participating in a virtual work program focused on Islamic Finance, powered by Bloomberg in collaboration with the Misk Foundation. This journey allowed me to bridge the gap between theoretical Islamic economic principles and real-world financial engineering using industry-standard tools like the Bloomberg Terminal.
 
