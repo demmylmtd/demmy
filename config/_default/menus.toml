@@ -1,0 +1,14 @@
+[[main]]
+  name = "Beranda"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
+  name = "Portofolio"
+  pageRef = "portfolio"
+  weight = 2
+
+[[main]]
+  name = "Tentang"
+  pageRef = "about"
+  weight = 3

@@ -1,0 +1,27 @@
+# Color scheme options:
+# blowfish, avocado, ocean, fire, slate, apricot, congo
+colorScheme = "blowfish"
+
+# Light / dark / auto
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+# Show author on each page
+showAuthor = true
+
+# Homepage layout
+[homepage]
+  layout = "profile"
+  showRecent = true
+  showRecentItems = 5
+
+# Author info
+[author]
+  name = "Demmy"
+  # image = "img/photo.jpg"
+  headline = "Finance Analyst"
+  bio = "I enjoy valuation analysis and building finance portfolios."
+  links = [
+    {linkedin = "https://linkedin.com/in/yourname"},
+    {github = "https://github.com/yourname"}
+  ]
