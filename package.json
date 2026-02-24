@@ -1,0 +1,13 @@
+{
+  "name": "demmy-portfolio",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tinacms dev -c \"hugo server\"",
+    "build": "tinacms build && hugo",
+    "start": "tinacms dev -c \"hugo server\""
+  },
+  "dependencies": {
+    "tinacms": "latest",
+    "@tinacms/cli": "latest"
+  }
+}
