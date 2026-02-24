@@ -12,3 +12,8 @@
   name = "About"
   pageRef = "about"
   weight = 3
+
+[[main]]
+  name = "Guides"
+  pageRef = "guides"
+  weight = 4
