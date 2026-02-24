@@ -1,29 +1,5 @@
-# ─── Appearance ───────────────────────────────────────────
-# Options: blowfish, avocado, ocean, fire, slate, apricot, congo
-colorScheme = "blowfish"
+[list]
+  showSummary = true
 
-# Options: light, dark, auto
-defaultAppearance = "dark"
-autoSwitchAppearance = false
-
-# ─── General ──────────────────────────────────────────────
-showAuthor = true
-
-# ─── Homepage ─────────────────────────────────────────────
-[homepage]
-  layout          = "profile"
-  showRecent      = true
-  showRecentItems = 5
-
-# ─── Author ───────────────────────────────────────────────
-[author]
-  name     = "Muhammad Demmy"
-  # image  = "img/photo.jpg"
-  headline = "Economics & Finance Student"
-  bio      = """
-Economics and Finance student at Al-Imam Muhammad Ibn Saud Islamic University
-"""
-  links = [
-    { linkedin = "https://linkedin.com/in/muhammad-demmy" },
-    { github   = "https://github.com/demmylmtd" },
-  ]
+[article]
+  showSummary = true
