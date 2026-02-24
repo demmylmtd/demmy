@@ -25,18 +25,6 @@ export default defineConfig({
         label: "Portfolio",
         path: "content/portfolio",
         format: "md",
-        ui: {
-          filename: {
-            readonly: false,
-            slugify: (values) => {
-              return values?.title
-                ?.toLowerCase()
-                .replace(/ /g, "-")
-                .replace(/[^
-\w-]+/g, "");
-            },
-          },
-        },
         fields: [
           {
             type: "string",
