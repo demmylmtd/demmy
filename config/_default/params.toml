@@ -1,5 +1,38 @@
-[list]
-  showSummary = true
+colorScheme = "ocean"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+mainSections = ["portfolio"]
+
+[homepage]
+  layout = "page"
+  showRecent = true
+  showRecentItems = 5
+  showMoreLink = true
+  showMoreLinkDest = "/portfolio"
+
+[header]
+  layout = "basic"
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
 
 [article]
   showSummary = true
+  showDate = true
+  showDateUpdated = false
+  showAuthor = true
+  showReadingTime = true
+  showTableOfContents = false
+  showTaxonomies = true
+  showWordCount = false
+  showEdit = false
+
+[list]
+  showSummary = true
+  showCards = true
+  groupByYear = false
