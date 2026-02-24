@@ -1,14 +1,1 @@
-{
-  "framework": "hugo",
-  "buildCommand": "npm install && npx tinacms build && hugo",
-  "outputDirectory": "public",
-  "build": {
-    "env": {
-      "HUGO_VERSION": "0.147.7"
-    }
-  },
-  "env": {
-    "TINA_PUBLIC_CLIENT_ID": "48326308-38d6-49f7-8c10-6483610f6d2f",
-    "NEXT_PUBLIC_TINA_CLIENT_ID": "48326308-38d6-49f7-8c10-6483610f6d2f"
-  }
-}
+{"framework":"hugo","buildCommand":"npm install && tinacms build && hugo","outputDirectory":"public","build":{"env":{"HUGO_VERSION":"0.147.7"}}}
